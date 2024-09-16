@@ -1,1 +1,2 @@
 # FireSafeBat
+The project is called FireSafeBat, and it focuses on using machine learning and deep learning to predict thermal runaway in Li-ion batteries. As the field of automation shifts from gasoline vehicles to electric vehicles (EVs), the battery, particularly Li-ion batteries, becomes a crucial component of EVs. While EVs are beneficial for the environment, they also come with challenges, one of the biggest being thermal runaway with accuracy of 90.42%.
